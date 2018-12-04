@@ -6,4 +6,6 @@ echo "TWO FILES HAS BEEN CREATED"
 touch "/tmp/thirdfile"
 touch "/tmp/fourthfile"
 echo "SCRIPT HAS BEEN COMPLETED SUCCESSFULLY"
-
+touch "/tmp/one"
+touch "/tmp/two"
+touch "/tmp/three"
